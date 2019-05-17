@@ -1,4 +1,4 @@
-function countAllFromTown(regNumbers, Town){
+function countAllFromTown(regNumbers, town){
     //console.log(regNumbers);
    // console.log(Town);
     var Stellies= regNumbers.split(",");
